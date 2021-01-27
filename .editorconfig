@@ -1,0 +1,16 @@
+﻿[*.cs]
+
+# SA1600: Elements should be documented
+dotnet_diagnostic.SA1600.severity = silent
+
+# SA1201: Elements should appear in the correct order
+dotnet_diagnostic.SA1201.severity = silent
+
+# SA1601: Partial elements should be documented
+dotnet_diagnostic.SA1601.severity = silent
+
+# SA1413: Use trailing comma in multi-line initializers
+dotnet_diagnostic.SA1413.severity = silent
+
+# SA1300: Element should begin with upper-case letter
+dotnet_diagnostic.SA1300.severity = silent

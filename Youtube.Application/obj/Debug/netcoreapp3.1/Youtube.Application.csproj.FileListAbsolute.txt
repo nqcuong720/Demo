@@ -1,0 +1,12 @@
+F:\Project\Youtube\Youtube.Application\bin\Debug\netcoreapp3.1\Youtube.Application.deps.json
+F:\Project\Youtube\Youtube.Application\bin\Debug\netcoreapp3.1\Youtube.Application.dll
+F:\Project\Youtube\Youtube.Application\bin\Debug\netcoreapp3.1\Youtube.Application.pdb
+F:\Project\Youtube\Youtube.Application\obj\Debug\netcoreapp3.1\Youtube.Application.csprojAssemblyReference.cache
+F:\Project\Youtube\Youtube.Application\obj\Debug\netcoreapp3.1\Youtube.Application.AssemblyInfoInputs.cache
+F:\Project\Youtube\Youtube.Application\obj\Debug\netcoreapp3.1\Youtube.Application.AssemblyInfo.cs
+F:\Project\Youtube\Youtube.Application\obj\Debug\netcoreapp3.1\Youtube.Application.csproj.CoreCompileInputs.cache
+F:\Project\Youtube\Youtube.Application\obj\Debug\netcoreapp3.1\Youtube.Application.dll
+F:\Project\Youtube\Youtube.Application\obj\Debug\netcoreapp3.1\Youtube.Application.pdb
+F:\Project\Youtube\Youtube.Application\bin\Debug\netcoreapp3.1\Youtube.Data.dll
+F:\Project\Youtube\Youtube.Application\bin\Debug\netcoreapp3.1\Youtube.Data.pdb
+F:\Project\Youtube\Youtube.Application\obj\Debug\netcoreapp3.1\Youtube.Application.csproj.CopyComplete
